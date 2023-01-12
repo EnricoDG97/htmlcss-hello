@@ -5,3 +5,12 @@ h1 {
 h3 {
     color: lightgrey;
 }
+
+.bgsquare{
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    background-color: black;
+    border-radius: 16px;
+    padding: 3%;
+}
